@@ -38,8 +38,6 @@ The workflow includes data modeling, DAX calculations, geographic mapping, and e
 **Rachna Nair**  
 💼 LinkedIn:  https://www.linkedin.com/in/rachna-nair10/
 
-**Rachna Nair**  
-💼 [LinkedIn](https://www.linkedin.com/in/rachna-nair10/)
 
 
 
